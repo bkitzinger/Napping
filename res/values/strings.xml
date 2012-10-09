@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, NappingActivity!</string>
+    <string name="app_name">Napping</string>
+    <string name="about_text">After the first Start of Napping a Folder called "NappingVideos" is created on the SD-card of the Android device. Put a desired number of well encoded videos in this folder and the app will automatically adapt to this setup. In the preferences you can set the time between clips and if the user should trigger the presentation of the next video or not. Developed by Benjamin Kitzinger for University of Vienna.
+        </string>
+
+</resources>
